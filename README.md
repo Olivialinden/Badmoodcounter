@@ -23,3 +23,56 @@ In case of an accidental button press, the operator can press the white button t
 * 3. Viewing Weekly Records:
 To view a record of bad moods from the last seven days, the operator should press the yellow button. The LCD will display a list of counts for each of the seven days.
 
+## LCD presentation
+
+  ![image](LCDpresentation1.PNG)
+  ![image](LCDpresentation2.PNG)
+
+## Schametic:
+
+   ![image](badmood_schametic.png)
+
+
+## How to build
+
+Run this command:
+
+    ./run.sh compile_only badmoodcounter NO
+
+## How to flash
+
+You need to install OpenOCD and GDB in your system. Then:
+
+    ./run.sh flash
+
+## How to monitor
+
+You need to install "picocom" in your system. Then:
+
+    ./run.sh monitor
+
+## Requirements
+
+* CMake (for linux users : sudo apt install cmake)
+* Make 
+* gcc-arm-none-eabi
+* openOCD
+* GDB
+
+
+ ## Installation
+
+ To install the project, follow these steps:
+
+  1. Clone the repository
+  2. Open the project in your preferred IDE
+  3. Compile and upload the code to the NUCLEO_F446RE microcontroller
+
+
+## Images & gif
+
+  ![image](badmoodcounter1.PNG)
+  ![image](badmoodcounter2.PNG)
+
+
+  
