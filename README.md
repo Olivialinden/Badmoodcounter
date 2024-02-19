@@ -3,7 +3,7 @@
 
 *Email: chen_dinni@hotmail.com*
 
-*Github Page: XXXXXXXXXXXXXXXXXX*
+*Github Page: https://github.com/Olivialinden/Badmoodcounter/tree/main*
 
 ## Introduction
 The Badmoodcounter is a device inspired by the self-help book on depression, *Feel Good: The New Mood Therapy* it discusses a technique called "Mental Biofeedback" for managing negative thoughts. It involves using a wrist counter that looks like a wristwatch to track and count negative self-critical thoughts throughout the day. The process includes clicking the button on the counter each time a negative thought arises and recording the daily total in a log book. Initially, the count may increase, but after a period of about three weeks, it tends to decrease. This method can help individuals become more aware of and eventually reduce their self-critical thinking, leading to improved mental well-being.
